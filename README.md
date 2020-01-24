@@ -4,7 +4,6 @@ Glosario
 
 |Concepto|¿Quién lo creo?|¿Cuándo?|Para qué sirve
 |:---:   |:---:          |:---:   |:---:         
-
 |hadoop|  el ingeniero de software Doug Cutting |2004| describe en un documento técnicas para manejar grandes volúmenes de datos, desgranándolos en problemas cada vez más pequeños para hacerlos abordables.
 |ApacheFlume|||es un servicio distribuido, fiable, y altamente disponible para recopilar, agregar, y mover eficientemente grandes cantidades de datos.
 |MapReduce |Yahoo|2008| es un modelo de programación para dar soporte a la computación paralela sobre grandes colecciones de datos en grupos de computadoras 
