@@ -1,4 +1,4 @@
-#Glosario Big data
+# Glosario Big data
 
 Glosario
 
